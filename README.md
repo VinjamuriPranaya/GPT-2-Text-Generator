@@ -29,3 +29,16 @@ Install dependencies via:
 
 ```bash
 pip install -r requirements.txt
+
+# 📘 GPT-2 Text Generator with Widgets
+An interactive GPT-2 demo using Hugging Face Transformers and `ipywidgets` for prompt customization, style control, and output management.
+
+## 🚀 Run the Notebook
+👉 [Click here to open in Google Colab](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/gpt2_text_gen.ipynb)
+
+## ⚠️ Preview Warning
+
+GitHub may not display this notebook correctly due to interactive widgets (`ipywidgets`).  
+This is caused by missing widget metadata (`"state"` key) during Colab saves.  
+
+🔧 To experience full interactivity, please **open the notebook in Colab** using the link above.
