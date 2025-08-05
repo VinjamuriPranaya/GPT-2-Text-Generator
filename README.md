@@ -23,14 +23,7 @@ Created as part of the **Prodigy Infotech Generative AI internship**, it aligns 
 4. Click "Generate Text"
 5. 📥 Press "Download Output" to save the result locally
 
-## 📦 Requirements
-
-Install dependencies via:
-
-```bash
-pip install -r requirements.txt
-
-# 📘 GPT-2 Text Generator with Widgets
+## 📘 GPT-2 Text Generator with Widgets
 An interactive GPT-2 demo using Hugging Face Transformers and `ipywidgets` for prompt customization, style control, and output management.
 
 ## 🚀 Run the Notebook
@@ -41,4 +34,14 @@ An interactive GPT-2 demo using Hugging Face Transformers and `ipywidgets` for p
 GitHub may not display this notebook correctly due to interactive widgets (`ipywidgets`).  
 This is caused by missing widget metadata (`"state"` key) during Colab saves.  
 
-🔧 To experience full interactivity, please **open the notebook in Colab** using the link above.
+🔧 To experience full interactivity, please **open the notebook using the link above**
+
+
+## 📦 Requirements
+
+Install dependencies via:
+
+```bash
+pip install -r requirements.txt
+
+n Colab** using the link above.
