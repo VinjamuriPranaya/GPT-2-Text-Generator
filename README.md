@@ -14,7 +14,8 @@ Created as part of the **Prodigy Infotech Generative AI internship**, it aligns 
 
 ## 🚀 How to Run
 
-👉 [Open in Google Colab](PASTE-YOUR-COLAB-LINK-HERE)
+👉 [Open in Google Colab](https://colab.research.google.com/github/VinjamuriPranaya/PRODIGY_GA_01/blob/main/GPT2_Text_Generator.ipynb)
+
 
 ## Steps:
 1. Click `Runtime > Run all`
