@@ -27,7 +27,7 @@ Created as part of the **Prodigy Infotech Generative AI internship**, it aligns 
 An interactive GPT-2 demo using Hugging Face Transformers and `ipywidgets` for prompt customization, style control, and output management.
 
 ## 🚀 Run the Notebook
-👉 [Click here to open in Google Colab](https://colab.research.google.com/github/VinjamuriPranaya/GPT-2-Text-Generator/blob/main/GPT2_Text_Generator.ipynb)
+👉 [Click here to open in Google Colab](https://colab.research.google.com/github/VinjamuriPranaya/PRODIGY_GA_01/blob/main/GPT2_Text_Generator.ipynb)
 
 ## ⚠️ Preview Warning
 
